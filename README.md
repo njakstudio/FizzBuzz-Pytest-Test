@@ -10,10 +10,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to inst
 
 ## Usage
 
-'''python
+```python
 
 pytest -q fizzbuzz_test.py
-'''
+```
 
 Returns whether the fizzbuzz function in fizzbuzz.py passes the tests in fizzbuzz_test.py
 
